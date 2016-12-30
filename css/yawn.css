@@ -1,0 +1,29 @@
+/*
+* Yawn
+* Copyright 2016, HAL9K
+* www.libaui.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/30/2016
+*/
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Frames
+*/
+
+
+
+.splash {
+    margin: auto;
+    width: 50%;
+    border: 0px;
+    padding: 10px;
+}
+
+.content {
+    margin: auto;
+    width: 60%;
+    border: 2px;
+    padding: 10px;
+}
